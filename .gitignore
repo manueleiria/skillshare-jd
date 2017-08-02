@@ -1,3 +1,11 @@
 .git
 **/build/
 **/libraries/
+HYPE.pde
+.DS_Store
+.pdf
+Introduction_to*
+ProgrammingGraphics*
+Artboard*
+_Q6*
+render*
